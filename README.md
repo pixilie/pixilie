@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristen</h1>
-<h3 align="center">I'm a french young man of 15 years old</h3>
+<h3 align="center">I'm a french young man of 16 years old</h3>
 
 <br>
 
