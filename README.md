@@ -7,8 +7,6 @@ I have always been interested in programming and love creating my own projects. 
 
 You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discord (`@pixilie`) 🗨️
 
-![discord](https://img.shields.io/badge/:badgeContent?style=flat&logo=discord)
-
 # Projects
 
 <a href="https://github.com/Pixilie/VocalTimeCounter">
