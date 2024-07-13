@@ -12,13 +12,13 @@ You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discor
 # Projects
 
 <a href="https://github.com/Pixilie/VocalTimeCounter">
-  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pixilie&repo=VocalTimeCounter&theme=dracula&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pixilie&repo=VocalTimeCounter&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/Pixilie/SteamBot">
-  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pixilie&repo=SteamBot&theme=dracula&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pixilie&repo=SteamBot&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/Pixilie/Traffic_Lights">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pixilie&repo=Traffic_Lights&theme=dracula&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pixilie&repo=Traffic_Lights&theme=dracula&hide_border=true" />
 </a>
 
 # Tools
