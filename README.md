@@ -1,11 +1,11 @@
 # Profile
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pixilie&show_icons=true&theme=dracula&hide_border=true" />
-Hey 👋 I'm Kristen, an eighteen years old French student 👨‍🎓
+Hey 👋 I'm Kristen, an eighteen years old French student 👨‍🎓.
 
 I have always been interested in programming and love creating my own projects. I started with Python a long time ago, but my first real project was a weather app. After that, I delved into web development and, more recently, I've been working on Discord bots.
 
-You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discord (`@pixilie`) 🗨️
+You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discord (`@pixilie`) 🗨️.
 
 # Projects
 
@@ -21,9 +21,9 @@ You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discor
 
 # Tools
 
-- **Editor** : ![VSCode logo](https://img.shields.io/badge/-VSCode-3b87e2?style=flat-square&logo=&logoColor=white)
-- **Browsing** : ![Firefox logo](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white)
-- **OS** : ![Unbuntu logo](https://img.shields.io/badge/-Ubuntu-FF7139?style=flat-square&logo=ubuntu&logoColor=white)
+- **Editor** : ![ZED](https://zed.dev/)
+- **Browsing** : ![Firefox](https://www.mozilla.org/fr/firefox/new/)
+- **OS** : ![Unbuntu](https://www.ubuntu-fr.org/) with ![Regolith](https://regolith-desktop.com/)
 
 # Metrics
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixilie&layout=compact&theme=dracula&hide_border=true" />
