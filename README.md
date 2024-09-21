@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pixilie&show_icons=true&theme=dracula&hide_border=true" />
 Hey 👋 I'm Kristen, an eighteen years old French student 👨‍🎓.
 
-I have always been interested in programming and love creating my own projects. I started with Python a long time ago, but my first real project was a weather app. After that, I delved into web development and, more recently, I've been working on Discord bots.
+I have always been interested in programming and love creating my own projects. I started with Python a few years ago, but my first real project was a weather app. After that, I delved into web development and, more recently, I've been working on Discord bots. My next goal is to learn lower level langage such as rust and C and start software development.
 
 You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discord (`@pixilie`) 🗨️.
 
