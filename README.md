@@ -14,8 +14,8 @@ let kristen = Kristen {
 
 ## Stats <img src="https://wakatime.com/badge/user/0ebf63dd-06b9-44c5-9f1f-54c54f263777.svg" alt="Total time coded since Apr 12 2023" align="right"/>
 
-<a href=""> <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=pixilie&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/> </a>
-<a href="https://wakatime.com/@Pixilie"> <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pixilie&layout=compact&langs_count=10&theme=tokyonight&custom_title=Time%20by%20language"/> </a>
+<a href=""> <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pixilie&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/> </a>
+<a href="https://wakatime.com/@Pixilie"> <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pixilie&layout=compact&langs_count=10&theme=tokyonight&custom_title=Time%20by%20language"/> </a>
 
 ## Projects
 
