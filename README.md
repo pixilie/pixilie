@@ -31,7 +31,7 @@ let kristen = Kristen {
 
 ## Stale/Finished
 
--   **trafic-lights** in _Python_ [[GitHub](https://github.com/pixilie/traffic-lights/)]
+-   **traffic-lights** in _Python_ [[GitHub](https://github.com/pixilie/traffic-lights/)]
 
     > Simple video game where you hace to managed traffic lights to win
 
