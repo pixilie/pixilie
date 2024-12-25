@@ -9,25 +9,29 @@ You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discor
 
 ### In progress
 
--   **vocal-time-counter** in _Javascript_ [[GitHub](https://github.com/pixilie/vocal-time-counter/)]
+-   **vocal-time-counter** [[GitHub](https://github.com/pixilie/vocal-time-counter/)]
 
-    > A discord bot that tracks the time you spent in voice channels
+    > A discord bot that tracks the time you spend in voice channels
 
--   **nix-configuration** in _Nix_ [[GitHub](https://github.com/pixilie/nix-configuration/)]
+-   **nix-configuration** [[GitHub](https://github.com/pixilie/nix-configuration/)]
 
     > Nix files containing my computer and desktop configuration
+    
+-   **treep** [[GitHub](https://github.com/mrnossiom/treep/)] _(private)_
+
+    > Two dimensions rogue-like game
 
 ### Stale/Finished
 
--   **traffic-lights** in _Python_ [[GitHub](https://github.com/pixilie/traffic-lights/)]
+-   **traffic-lights** [[GitHub](https://github.com/pixilie/traffic-lights/)]
 
-    > Simple video game where you hace to managed traffic lights to win
+    > Simple video game where you have to manage traffic lights to win
 
--   **steambot** in _Javascript_ [[GitHub](https://github.com/pixilie/steambot/)]
+-   **steambot** [[GitHub](https://github.com/pixilie/steambot/)]
 
-    > A discord bot to check your steam statistics
+    > A discord bot to check your Steam statistics
 
--   **meteor** in _Python_ [[GitHub](https://github.com/pixilie/meteor/)]
+-   **meteor** [[GitHub](https://github.com/pixilie/meteor/)]
 
     > Minimalist weather app
 
