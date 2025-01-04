@@ -21,15 +21,15 @@ You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discor
 
     > Two dimensions rogue-like game
 
+-   **steambot** [[GitHub](https://github.com/pixilie/steambot/)]
+
+    > A discord bot to check your Steam statistics
+
 ### Stale/Finished
 
 -   **traffic-lights** [[GitHub](https://github.com/pixilie/traffic-lights/)]
 
     > Simple video game where you have to manage traffic lights to win
-
--   **steambot** [[GitHub](https://github.com/pixilie/steambot/)]
-
-    > A discord bot to check your Steam statistics
 
 -   **meteor** [[GitHub](https://github.com/pixilie/meteor/)]
 
