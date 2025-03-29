@@ -19,11 +19,11 @@ You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discor
     
 -   **treep** [[GitHub](https://github.com/mrnossiom/treep/)] _(private)_
 
-    > Two dimensions rogue-like game
+    > A two-dimensions rogue-like game
 
--   **steambot** [[GitHub](https://github.com/pixilie/steambot/)]
+-   **hypixel-bank-tracker** [[GitHub](https://github.com/pixilie/hypixel-bank-tracker/)]
 
-    > A discord bot to check your Steam statistics
+    > A website allowing you to track your hypixel skyblock coop account
 
 ### Stale/Finished
 
@@ -35,6 +35,9 @@ You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discor
 
     > Minimalist weather app
 
+-   **steambot** [[GitHub](https://github.com/pixilie/steambot/)]
+
+    > A discord bot to check your Steam statistics
 
 ## Metrics  <img src="https://wakatime.com/badge/user/0ebf63dd-06b9-44c5-9f1f-54c54f263777.svg" alt="Total time coded since Apr 12 2023" align="right"/>
 
