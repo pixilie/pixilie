@@ -16,16 +16,16 @@ You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discor
 -   **nix-configuration** [[GitHub](https://github.com/pixilie/nix-configuration/)]
 
     > Nix files containing my computer and desktop configuration
-    
--   **treep** [[GitHub](https://github.com/mrnossiom/treep/)] _(private)_
-
-    > A two-dimensions rogue-like game
 
 -   **hypixel-bank-tracker** [[GitHub](https://github.com/pixilie/hypixel-bank-tracker/)]
 
     > A website allowing you to track your hypixel skyblock coop account
 
 ### Stale/Finished
+
+-   **treep** [[GitHub](https://github.com/mrnossiom/treep-unity/)]
+
+    > A two-dimensions rogue-like game
 
 -   **traffic-lights** [[GitHub](https://github.com/pixilie/traffic-lights/)]
 
