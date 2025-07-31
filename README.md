@@ -1,8 +1,8 @@
-Hey 👋 I'm Kristen, an eighteen years old French student.
+Hi 👋, I'm Kristen, an 18-year-old French student.
 
-I have always been interested in programming and love creating my own projects. I started with Python a few years ago, but my first real project was a weather app. After that, I delved into web development and, more recently, I've been working on Discord bots. My next goal is to learn lower level langage such as rust and C and start software development.
+I have always been interested in programming and love creating my projects. I started with Python a few years ago, but my first real project was a weather app. After that, I delved into web development and, more recently, I've been working on Discord bots. My next goal is to learn lower-level languages such as Rust and C and start software development.
 
-You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discord (`@pixilie`) 🗨️.
+You can contact me by [mail](mailto:contact@pixilie.net) 📫 or with discord (`@pixilie`) 🗨️.
 
 
 ## Projects
@@ -11,7 +11,7 @@ You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discor
 
 -   **vocal-time-counter** [[GitHub](https://github.com/pixilie/vocal-time-counter/)]
 
-    > A discord bot that tracks the time you spend in voice channels
+    > A Discord bot that tracks the time you spend in voice channels
 
 -   **nix-configuration** [[GitHub](https://github.com/pixilie/nix-configuration/)]
 
@@ -19,13 +19,13 @@ You can contact me by [mail](mailto:kristen.couty@gmail.com) 📫 or with discor
 
 -   **hypixel-bank-tracker** [[GitHub](https://github.com/pixilie/hypixel-bank-tracker/)]
 
-    > A website allowing you to track your hypixel skyblock coop account
+    > A website allowing you to track your Hypixel Skyblock coop account
 
 ### Stale/Finished
 
 -   **treep** [[GitHub](https://github.com/mrnossiom/treep-unity/)]
 
-    > A two-dimensions rogue-like game
+    > A two-dimensional rogue-like game
 
 -   **traffic-lights** [[GitHub](https://github.com/pixilie/traffic-lights/)]
 
